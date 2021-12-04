@@ -8,3 +8,4 @@
 *.txt
 *y/*
 .backup
+*zkeys/*
